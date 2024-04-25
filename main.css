@@ -43,12 +43,13 @@ body{
     height: 100px;
     transform-style: preserve-3d;
     transition: transform 1s ease;
-    transform: rotate3d(1, 1, 1, 45deg);
+    transform: rotate3d(1,1, 1, 150deg);
 }
 
-/* .dice:hover {
-    transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
-  } */
+.dice:hover {
+    /* transform: rotateX(270deg) rotateY(0deg) rotateZ(360deg); */
+    transform: rotate3d(1,1, 1, 45deg);
+  }
 
   .dice-face {
     display: flex;
