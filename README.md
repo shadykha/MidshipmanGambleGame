@@ -1,7 +1,7 @@
 # MidshipmanGambleGame
 
 ## Game description
-a 2x3 rectangle mate each square of the nine squares contain a symbols for “captain” “anchor” “heart” “ship” “port” and “diamond”. The sailor bet by placing any quantity of coins on any arrangement of squares. Then he rolls three six-sided dice with faces represent a square on the mate. when the sailor play the dice, the sailor wins the amount of money placed on each square for every dice number that matches the square.
+a 2x3 rectangle mate each square of the nine squares contain a symbols for “captain” “anchor” “heart” “ship” “port” and “diamond”. The sailor bet by placing any quantity of coins on any arrangement of squares. Then he rolls six-sided dice with faces represent a square on the mate. each game the sailor can throw the dice three times only. when the sailor play the dice, the sailor wins the amount of money placed on each square for every dice number that matches the square.
 
 some examples for how the sailer might play:
 
@@ -16,3 +16,7 @@ some examples for how the sailer might play:
 | 5 pence on diamond             |Heart, Anchor, ship        |    0    |
 
 at the game begining the sailor have 100 pence to bet with. if he doubled his money he wins if lose all his money the game ends.
+
+
+## to add later
+to make the game more exciting. make it multiplayer so each player bet on some squares and the each take his turn and role the dice 3 time. and who gets a square number takes all the money on that square.
